@@ -1,0 +1,31 @@
+city,subject,mean_marks,max_marks,count_marks
+Biratnagar,Databases,80.66666666666667,96.0,3
+Biratnagar,Linear Algebra,61.666666666666664,70.0,3
+Biratnagar,Machine Learning,65.6,89.0,5
+Biratnagar,Python Programming,52.166666666666664,98.0,6
+Biratnagar,Statistics,67.66666666666667,93.0,3
+Birgunj,Databases,53.0,53.0,1
+Birgunj,Linear Algebra,59.8,84.0,5
+Birgunj,Machine Learning,60.333333333333336,91.0,3
+Birgunj,Python Programming,70.66666666666667,89.0,3
+Birgunj,Statistics,60.0,93.0,5
+Dharan,Databases,63.2,94.0,5
+Dharan,Linear Algebra,47.666666666666664,54.0,3
+Dharan,Machine Learning,71.33333333333333,90.0,3
+Dharan,Python Programming,78.0,81.0,2
+Dharan,Statistics,61.6,95.0,5
+Kathmandu,Databases,57.166666666666664,93.0,6
+Kathmandu,Linear Algebra,62.0,93.0,3
+Kathmandu,Machine Learning,61.75,79.0,4
+Kathmandu,Python Programming,67.0,73.0,3
+Kathmandu,Statistics,64.8,94.0,5
+Lalitpur,Databases,59.0,92.0,3
+Lalitpur,Linear Algebra,46.333333333333336,73.0,6
+Lalitpur,Machine Learning,49.666666666666664,65.0,3
+Lalitpur,Python Programming,44.25,60.0,4
+Lalitpur,Statistics,88.66666666666667,90.0,3
+Pokhara,Databases,36.0,46.0,5
+Pokhara,Linear Algebra,34.25,42.0,4
+Pokhara,Machine Learning,45.666666666666664,55.0,3
+Pokhara,Python Programming,56.75,73.0,4
+Pokhara,Statistics,70.33333333333333,87.0,3
